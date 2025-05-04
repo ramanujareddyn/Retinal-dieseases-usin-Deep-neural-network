@@ -1,1 +1,1 @@
-# Retinal-dieseases-usin-Deep-neural-network
+# Retinal-diseases-using-Deep-neural-network
